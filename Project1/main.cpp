@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// fancy comment
+
 int max(int a, int b)
 {
 	if (a > b)
