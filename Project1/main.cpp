@@ -18,6 +18,8 @@ int max(int a, int b)
 	}
 }
 
+int otherFunc() { return 0; }
+
 int fibonacci(int n)
 {
 	int a = 0;
