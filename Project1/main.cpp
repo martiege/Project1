@@ -35,6 +35,8 @@ int fibonacci(int n)
 	return b;
 }
 
+void f() {}
+
 int squareNumberSum(int n)
 {
 	int totalSum = 0;
